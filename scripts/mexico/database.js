@@ -74,3 +74,15 @@ const database = {
         }
     ]
 }
+
+export const getCelebs = () => {
+    return database.celebrities.map(celebs => ({...celebs}))
+}
+
+export const getCities = () => {
+    return database.cities.map(cities => ({...cities}))
+}
+
+export const getLandmarks = () => {
+    return database.landmarks.map(landmarks => ({...landmarks}))
+}
