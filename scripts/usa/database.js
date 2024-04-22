@@ -132,7 +132,7 @@ const database = {
             id: 2, 
             name: "Edgar Alan Poe", 
             image: 
-            `src="https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/07/edgar-allan-poe-0723211.jpg"alt="Image of Edgar Alan Poe"`
+            `src="https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/07/edgar-allan-poe-0723211.jpg"alt="Image of Edgar Alan Poe"`,
             birthplace: "Boston, MA",
             bio: `Edgar Allan Poe 
             (né Edgar Poe; January 19, 1809 – October 7, 1849) 
@@ -156,7 +156,7 @@ const database = {
             id: 3, 
             name: "Steve Harvey", 
             image:
-            `src="https://akns-images.eonline.com/eol_images/Entire_Site/2020013/rs_1024x759-200113121440-1024-Steve-Harvey-Watch.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top"alt="Image of Steve Harvey"`
+            `src="https://akns-images.eonline.com/eol_images/Entire_Site/2020013/rs_1024x759-200113121440-1024-Steve-Harvey-Watch.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top"alt="Image of Steve Harvey"`,
             birthplace: "Welch, WV", 
             bio: `Broderick Stephen Harvey 
             Sr.[2][3] (born January 17, 1957) is an 
