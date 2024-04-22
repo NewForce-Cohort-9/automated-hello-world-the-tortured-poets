@@ -53,24 +53,24 @@ const database = {
             id: 1,
             name: "Tulum",
             location: "Quintana Roo",
-            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/500px-Tulum_2.jpg",
-            interestingFact: "Tulum was one of the last cities built and inhabited by the Maya and achieved its greatest prominence between the 13th and 15th centuries."
+            facts: "Tulum was one of the last cities built and inhabited by the Maya and achieved its greatest prominence between the 13th and 15th centuries.",
+            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/500px-Tulum_2.jpg"
         },
 
         {
             id: 2,
             name: "Chichén Itzá",
             location: "Yucatán",
-            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/440px-Chichen_Itza_3.jpg",
-            interestingFact: "Chichén Itzá was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature."
+            facts: "Chichén Itzá was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.",
+            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/440px-Chichen_Itza_3.jpg"
         },
 
         {
             id: 3,
             name: "Frida Kahlo Museum",
             location: "Mexico City",
-            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museo_Frida_Kahlo.JPG/500px-Museo_Frida_Kahlo.JPG",
-            interestingFact: "The museum contains a collection of artwork by Frida Kahlo, Diego Rivera, and other artists along with the couple's Mexican folk art, pre-Hispanic artifacts, photographs, memorabilia, personal items, and more. The collection is displayed in the rooms of the house which remains much as it was in the 1950s. It is the most popular museum in Coyoacán and one of the most visited in Mexico City."
+            facts: "The museum contains a collection of artwork by Frida Kahlo, Diego Rivera, and other artists along with the couple's Mexican folk art, pre-Hispanic artifacts, photographs, memorabilia, personal items, and more. The collection is displayed in the rooms of the house which remains much as it was in the 1950s. It is the most popular museum in Coyoacán and one of the most visited in Mexico City.",
+            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museo_Frida_Kahlo.JPG/500px-Museo_Frida_Kahlo.JPG"
         }
     ]
 }
