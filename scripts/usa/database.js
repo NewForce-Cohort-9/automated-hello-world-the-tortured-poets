@@ -8,7 +8,7 @@ const database = {
 
         id: 1, 
         name: "Morgantown", 
-        Population: 30277
+        population: 30277
 
 
 
@@ -48,13 +48,13 @@ const database = {
             in Arizona, United States. The Grand 
             Canyon is 277 miles (446 km) long, up to 18 miles 
             (29 km) wide and attains a depth of over a mile 
-            (6,093 feet or 1,857 meters).[6]: 902 `
+            (6,093 feet or 1,857 meters).[6]: 902 `,
             image:
               `src="https://en.wikipedia.org/wiki/Grand_Canyon#/media/File:Canyon_River_Tree_(165872763).jpeg"alt="Image of Grand Canyon"`
 
 
 
-        }
+        },
 
       {
         
@@ -69,16 +69,18 @@ const database = {
           The copper statue, a gift from the people of France, 
           was designed by French sculptor Frédéric Auguste Bartholdi 
           and its metal framework was built by Gustave Eiffel. 
-          The statue was dedicated on October 28, 1886.`
+          The statue was dedicated on October 28, 1886.`,
           image:
           `src="https://en.wikipedia.org/wiki/Statue_of_Liberty#/media/File:Lady_Liberty_under_a_blue_sky_(cropped).jpg"alt="Image of Statue Of Liberty"`
 
-      }
+      },
 
-      "
+      
 
-    
-        
+        {
+
+
+      
         id: 3, 
         name: "Spruce Knob", 
         location: "Pendelton, West Virginia", 
@@ -92,12 +94,13 @@ const database = {
          Spruce Knob (4,863 ft; 1,482 m),[1] is the 
          highest Allegheny Mountain point both 
          in the state and the entire range, 
-         which spans four states.`
+         which spans four states.`,
         image:
         `src="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:JudyRocks.JPG"alt="Image of Spruce Knob"`
 
+        }
 
-    ]
+    ], 
 
    
 
@@ -130,7 +133,7 @@ const database = {
             name: "Edgar Alan Poe", 
             image: 
             `src="https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/07/edgar-allan-poe-0723211.jpg"alt="Image of Edgar Alan Poe"`
-            birthplace: Boston, MA
+            birthplace: "Boston, MA",
             bio: `Edgar Allan Poe 
             (né Edgar Poe; January 19, 1809 – October 7, 1849) 
             was an American writer, poet, author, editor, 
