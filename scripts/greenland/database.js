@@ -26,13 +26,13 @@ database= {
         {
             id: 1,
             name: "Nuuk",
-            population: 19,604,
+            population: 19604,
             image: `src="https://visitgreenland.com/wp-content/uploads/nuuk-in-the-capital-region-in-greenland.jpg" alt="Photo of Nuuk"`
         },
         {
             id: 2,
             name: "Sisimiut",
-            population: 5,582,
+            population: 5582,
             image: `src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sisimiut_Port_in_summer_2010_%289%29.JPG/450px-Sisimiut_Port_in_summer_2010_%289%29.JPG" alt="Photo of Sisimiut"`
         },
         {
@@ -40,7 +40,7 @@ database= {
             name: "Ilulissat",
             population: 4670,
             image: `src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ilulissat.jpg/1024px-Ilulissat.jpg" alt="Photo of Ilulissat"`
-        },
+        }
     ],
     landmarks: [
         {
@@ -63,7 +63,7 @@ database= {
             location: "Ilulissat, Greenland",
             facts: "The museum building was originally built in 1923 by architect Helge Møller. It served as the residence of the colony manager; 5 colony managers and 5 commercial principals have lived in the house.[1] Later on, the house was acquired by the municipal colony and turned into the museum which was opened in 1995.",
             image: `src="http://www.museum.gl/Files/Billeder/Museerne/Ilulissat%20kunstmuseumweb.jpg" alt="Photo of Ilulissat Art Museum"`
-        },
+        }
     ]
 };
 
