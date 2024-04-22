@@ -44,7 +44,7 @@ const database = {
         }
     ],
 
-    celebrities: [
+    celebs: [
         {
             id: 1,
             name: "Lena Headey",
@@ -67,4 +67,15 @@ const database = {
             bio: "Earlston Jewett Cameron, CBE, known as Earl Cameron, was a Bermudian actor who lived and worked in the United Kingdom. After appearing on London's West End stage, he became one of the first black stars in the British film industry."
         }
     ],
+}
+export const getCelebs = () => {
+    return database.celebs.map(celebs => ({...celebs}));
+}
+
+export const getCities = () => {
+    return database.cities.map(cities => ({...cities}));
+}
+
+export const getLandmarks = () => {
+    return database.landmarks.map(landmarks => ({...landmarks}));
 }
