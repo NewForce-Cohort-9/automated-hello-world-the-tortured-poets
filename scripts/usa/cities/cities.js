@@ -1,4 +1,4 @@
-import {getCities} from "./database.js"
+import {getCities} from "../database.js"
 
 const cities = getCities()
 
