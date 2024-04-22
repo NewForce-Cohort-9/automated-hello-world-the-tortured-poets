@@ -4,7 +4,7 @@ const database = {
         {
             id: 1,
             name: "Guillermo del Toro",
-            image: "https://en.wikipedia.org/wiki/File:Guillermo_del_Toro_2023_(cropped).jpg",
+            image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Guillermo_del_Toro_2023_%28cropped%29.jpg",
             birthplace: "Guadalajara, Jalisco",
             bio: "Guillermo del Toro is a Mexican filmmaker. A recipient of three Academy Awards and three BAFTA Awards, his work has been characterized by a strong connection to fairy tales and horror, with an effort to infuse visual or poetic beauty in the grotesque. He has had a lifelong fascination with monsters, which he considers symbols of great power. He is also known for his use of insectile and religious imagery, his themes of Catholicism, anti-fascism, and celebrating imperfection, underworld motifs, practical special effects, and dominant amber lighting."
         },
@@ -12,7 +12,7 @@ const database = {
         {
             id: 2,
             name: "Frida Kahlo",
-            image: "https://en.wikipedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg",
+            image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
             birthplace: "Coyoacán, Mexico City",
             bio: "Magdalena Carmen Frida Kahlo y Calderón was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico. Inspired by the country's popular culture, she employed a naïve folk art style to explore questions of identity, postcolonialism, gender, class, and race in Mexican society. Her paintings often had strong autobiographical elements and mixed realism with fantasy. In addition to belonging to the post-revolutionary Mexicayotl movement, which sought to define a Mexican identity, Kahlo has been described as a surrealist or magical realist. She is also known for painting about her experience of chronic pain."
         },
@@ -20,7 +20,7 @@ const database = {
         {
             id: 3,
             name: "Salma Hayek",
-            image: "https://en.wikipedia.org/wiki/File:Salma_Hayek-9894.jpg",
+            image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Salma_Hayek-9894.jpg",
             birthplace: "Coatzacoalcos, Veracruz",
             bio: "Salma Hayek is a Mexican and American actress and film producer. She began her career in Mexico with starring roles in the telenovela Teresa (1989-1991) as well as the romantic drama Midaq Alley (1995). She soon established herself in Hollywood with appearances in films such as Desperado (1995), From Dusk till Dawn (1996), Wild Wild West (1999), and Dogma (1999)."
         }
