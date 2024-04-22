@@ -5,10 +5,10 @@ const landmarks = getLandmarks()
 export const LandmarksList = () => {
     let landmarksHTML = "<ul>" 
 
-    for (const landmark of landmarks) { `<li>${landmark.name}</li>`
+    for (const landmark of landmarks) { landmarksHTML += `<li>${landmark.name}</li>`
     }
 
-    landarmarksHTML += "</ul>"
+    landmarksHTML += "</ul>"
 
     return landmarksHTML
 
