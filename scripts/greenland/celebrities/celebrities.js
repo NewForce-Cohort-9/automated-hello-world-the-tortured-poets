@@ -14,9 +14,9 @@ export const celebHTMLMachine = () => {
     for (const celeb of celebs) {
         htmlString += `<div class="celeb">
             <div><img class="celebImg" ${celeb.image}></div>
-            <div class="celebName">${celeb.name}</div>
-            <div class="celebBirthplace">${celeb.birthplace}</div>
-            <div class="celebBio">${celeb.bio}</div>
+            <div class="celebName"><strong>Name:</strong> ${celeb.name}</div>
+            <div class="celebBirthplace"><strong>Birthplace: </strong>${celeb.birthplace}</div>
+            <div class="celebBio"><strong>Bio: </strong>${celeb.bio}</div>
         </div>`;
     }
     // Close the section for the celeb list

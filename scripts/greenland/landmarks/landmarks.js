@@ -14,9 +14,9 @@ export const landmarkHTMLMachine = () => {
     for (const landmark of landmarks) {
         htmlString += `<div class="landmark">
         <div><img class="landmarkImg" ${landmark.image}></div>
-        <div class="landmarkName">${landmark.name}</div>
-        <div class="landmarkLocation">${landmark.location}</div>
-        <div class="landmarkFacts">${landmark.facts}</div>
+        <div class="landmarkName"><strong>${landmark.name}</strong></div>
+        <div class="landmarkLocation"><strong>Located in: </strong>${landmark.location}</div>
+        <div class="landmarkFacts"><strong>Facts: </strong>${landmark.facts}</div>
     </div>`;
     }
 
