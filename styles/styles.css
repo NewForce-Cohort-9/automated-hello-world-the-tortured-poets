@@ -26,6 +26,59 @@
     color: white;
   }
 
+  h1 {
+    color: purple;
+    background-color: #04AA6D;
+    padding: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border: .25em solid black;
+    text-align: center;
+    font-family: fantasy;
+  }
+
+  h2 {
+    color:#00ff11;
+    background-color: #333;
+    text-align: center;
+    border: 2px solid #00ff11;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+
+  .gallery {
+    background-color: #333;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 1em;
+  }
+
+  img {
+    border: 10px dotted purple;
+    padding: 1em;
+    margin: 1em;
+    height: 350px;
+  }
+
+  #mexico-container {
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    background-color: #ff0095;
+    color: rgb(205, 255, 198);
+    font-size: large;
+  }
+
+  ul {
+    list-style: none;
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+
 .celeb {
   width: 30%;
   margin: 1em;

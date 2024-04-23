@@ -4,12 +4,12 @@ import { getCelebs } from './database.js'
 const celebs = getCelebs()
 
 export const allCelebs = () => {
-    let htmlString = ``
+    let htmlString = `<h1>Celebrities</h1>`
     
     for (const celeb of celebs) {
         
        htmlString += `<ul>
-            <li>${celeb.name}</li>
+            <li><h2>${celeb.name}</h2></li>
             <li><img class="celebImage" src=${celeb.image} alt="Image of ${celeb.name}"></img></li>
             <li>${celeb.birthplace}</li>
             <li>${celeb.bio}</li>
