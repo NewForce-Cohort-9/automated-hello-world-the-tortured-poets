@@ -1,6 +1,6 @@
-import { allCelebs } from "./celebrities.js"
-import { allCities } from "./cities.js"
-import { allLandmarks } from "./landmarks.js"
+import { allCelebs } from "./celebrities/celebrities.js"
+import { allCities } from "./cities/cities.js"
+import { allLandmarks } from "./landmarks/landmarks.js"
 
 const celebHTML = allCelebs()
 const showCelebs = `${celebHTML}`

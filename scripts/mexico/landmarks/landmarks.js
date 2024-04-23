@@ -1,5 +1,5 @@
 // Gets list of landmarks
-import { getLandmarks } from './database.js'
+import { getLandmarks } from '../database.js'
 
 const landmarks = getLandmarks()
 
