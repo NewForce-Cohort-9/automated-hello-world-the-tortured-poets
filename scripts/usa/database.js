@@ -178,5 +178,24 @@ const database = {
       
 }
 
-       
+export const getCelebrities = () => {
+    
+  return database.celebrities.map(celebrities => ({...celebrities}));
 
+}
+
+
+
+export const getCities = () => {
+    
+  return database.cities.map(cities => ({...cities}));
+
+}
+
+
+
+export const getLandmarks = () => {
+    
+  return database.landmarks.map(landmarks=> ({...landmarks}));
+
+}

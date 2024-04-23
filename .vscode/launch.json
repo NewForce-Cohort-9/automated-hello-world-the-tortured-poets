@@ -5,13 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+
+
             "type": "module",
+
             "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/scripts/mexico/celebrities/celebrities.js"
+
         }
     ]
 }
