@@ -9,5 +9,5 @@ const showCities = `${cityHTML}`
 const landmarkHTML = allLandmarks()
 const showLandmarks = `${landmarkHTML}`
 
-const parentHTMLElement = document.querySelector("#container")
+const parentHTMLElement = document.querySelector("#mexico-container")
 parentHTMLElement.innerHTML = showCelebs + showCities + showLandmarks
