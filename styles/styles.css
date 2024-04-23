@@ -78,3 +78,81 @@
     padding-right: 2em;
     padding-left: 2em;
   }
+
+.celeb {
+  width: 30%;
+  margin: 1em;
+}
+
+.celebImg {
+  height: 200px;
+  width: auto;
+  padding: 0.5em;
+}
+
+#celebInsert {
+  margin: 1em;
+  padding: 1em;
+}
+
+.celebList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: aqua;
+}
+
+.city {
+  margin: 1em;
+}
+
+.cityImg {
+  height: 200px;
+  width: auto;
+  padding: 0.5em;
+}
+
+#cityInsert {
+  margin: 1em;
+  padding: 1em;
+}
+
+.cityList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: red;
+}
+
+.head {
+  text-align: center;
+  background-color: greenyellow;
+}
+
+.landmark {
+    width: 30%;
+    margin: 1em;
+  }
+
+  .landmarkImg {
+  height: 200px;
+  width: auto;
+  padding: 0.5em;
+}
+
+.landmarkList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: plum;
+}
+
+.uglify {
+  background-color: pink;
+}

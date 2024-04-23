@@ -1,4 +1,4 @@
-database= {
+const database = {
     celebrities: [
         {
             id: 1,
@@ -61,7 +61,7 @@ database= {
             id: 3,
             name: "Ilulissat Art Museum",
             location: "Ilulissat, Greenland",
-            facts: "The museum building was originally built in 1923 by architect Helge Møller. It served as the residence of the colony manager; 5 colony managers and 5 commercial principals have lived in the house.[1] Later on, the house was acquired by the municipal colony and turned into the museum which was opened in 1995.",
+            facts: "The museum building was originally built in 1923 by architect Helge Møller. It served as the residence of the colony manager; 5 colony managers and 5 commercial principals have lived in the house. Later on, the house was acquired by the municipal colony and turned into the museum which was opened in 1995.",
             image: `src="http://www.museum.gl/Files/Billeder/Museerne/Ilulissat%20kunstmuseumweb.jpg" alt="Photo of Ilulissat Art Museum"`
         }
     ]
