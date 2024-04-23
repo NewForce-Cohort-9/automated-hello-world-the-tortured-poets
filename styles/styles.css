@@ -157,18 +157,6 @@
   background-color: pink;
 }
 
-#bermuda-container {
-  font-family: 'Courier New', Courier, monospace;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  background-color: red;
-
- 
-}
-
 .usadata {
 
   font-family: 'Courier New', Courier, monospace;
@@ -179,3 +167,14 @@
   color: green, (205, 255, 198);
   font-size: large; 
 }
+/*something {}
+
+/*something {}
+
+/*something{}
+
+/* something {}
+
+/* something{}
+
+
