@@ -5,13 +5,21 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "type": "node",
+=======
+            "type": "module",
+>>>>>>> 56aff41ea64b7d4296bc91f6a4a351e65492f755
             "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
                 "<node_internals>/**"
             ],
+<<<<<<< HEAD
             "program": "${workspaceFolder}\\scripts\\usa\\celebrities\\celebrities.js"
+=======
+            "program": "${workspaceFolder}/scripts/mexico/celebrities/celebrities.js"
+>>>>>>> 56aff41ea64b7d4296bc91f6a4a351e65492f755
         }
     ]
 }
