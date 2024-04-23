@@ -17,13 +17,17 @@ const landmarksHTML = LandmarksList()
 
 const theWholeThing = `
     <h1>celebrities</h1>
-    ${CelebrityList}
+    ${celebrityHTML}
 
     <h1>cities</h1>
-    ${CityList}
+    ${cityHTML}
 
     <h1>landmarks</h1>
-    ${LandmarksList}
+    ${landmarksHTML}
     `
 
 // More Code to insert below
+
+const theExistingMainElement = document.querySelector("#container")
+
+theExistingMainElement.innerHTML = theWholeThing
