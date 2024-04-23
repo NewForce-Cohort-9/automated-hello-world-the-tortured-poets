@@ -15,7 +15,7 @@ export const citiesHTMLMachine = () => {
         htmlString += `<div class="city">
         <div><img class="cityImg" ${city.image}></div>
         <div class="cityName">${city.name}</div>
-        <div class="cityPopulation">Population: ${city.population}</div>
+        <div class="cityPopulation"><strong>Population:</strong> ${city.population}</div>
         </div>`;
     }
 
