@@ -50,7 +50,7 @@ const database = {
             (29 km) wide and attains a depth of over a mile 
             (6,093 feet or 1,857 meters).[6]: 902 `,
             image:
-              `src="https://en.wikipedia.org/wiki/Grand_Canyon#/media/File:Canyon_River_Tree_(165872763).jpeg"alt="Image of Grand Canyon"`
+              `src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/432px-Canyon_River_Tree_%28165872763%29.jpeg"alt="Image of Grand Canyon"`
 
 
 
@@ -71,7 +71,7 @@ const database = {
           and its metal framework was built by Gustave Eiffel. 
           The statue was dedicated on October 28, 1886.`,
           image:
-          `src="https://en.wikipedia.org/wiki/Statue_of_Liberty#/media/File:Lady_Liberty_under_a_blue_sky_(cropped).jpg"alt="Image of Statue Of Liberty"`
+          `src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg/375px-Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg"`
 
       },
 
@@ -96,7 +96,7 @@ const database = {
          in the state and the entire range, 
          which spans four states.`,
         image:
-        `src="https://en.wikipedia.org/wiki/Spruce_Mountain_(West_Virginia)#/media/File:JudyRocks.JPG"alt="Image of Spruce Knob"`
+        `src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JudyRocks.JPG/408px-JudyRocks.JPG"`
 
         }
 
@@ -110,8 +110,10 @@ const database = {
 
         id: 1, 
         name: "Don Knots",  
+        
         image: 
-        `src="https://hips.hearstapps.com/hmg-prod/images/don-knotts-gettyimages-57656381.jpg?crop=1xw:0.5xh;center,top&resize=1200:*"alt="Image of Don Knots"`,
+        `src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Don_Knotts_Barney_Fife_1966.JPG/330px-Don_Knotts_Barney_Fife_1966.JPG"alt="Image of Don Knots"`,
+        
         birthplace: "Morgantown, WV", 
         bio: `In 1960, actor Don Knotts joined the sitcom 
         The Andy Griffith Show. For his role on the show, 
