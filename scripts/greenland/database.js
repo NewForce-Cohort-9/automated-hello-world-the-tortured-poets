@@ -1,4 +1,4 @@
-database= {
+const database = {
     celebrities: [
         {
             id: 1,
