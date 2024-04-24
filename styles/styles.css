@@ -167,6 +167,44 @@
   color: green, (205, 255, 198);
   font-size: large; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bermuda-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f31d1d;
+  color: #ffffff;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 1.5em;
+  padding: 1em;
+  margin: 1em;
+
+  }
+
 /*something {}
 
 /*something {}
@@ -176,5 +214,6 @@
 /* something {}
 
 /* something{}
+
 
 
